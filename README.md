@@ -9,10 +9,10 @@
 
 - 📄 Minha trajetória profissional pode ser vista aqui: [https://www.linkedin.com/in/crnaraujo](https://www.linkedin.com/in/crnaraujo)
 
-  <h3 align="left"><b>Projetos no Google Looker Studio: </h3>b></h3>
-- Projeto realizado para o segmento varejo [Análise de Vendas Varejo](https://lookerstudio.google.com/s/u1Eff9ZBixo)
+  <h3 align="left"><b>Projetos realizados no Google Looker Studio: </h3>b>
+- Projeto para o segmento varejo ➡️  [Análise de Vendas Varejo](https://lookerstudio.google.com/s/u1Eff9ZBixo)
 
-- Case realizado referente a performance de vendas no GA4 [Case Performance GA4](https://lookerstudio.google.com/s/mx04zXZTko4)
+- Case referente a performance de vendas no GA4 ➡️  [Case Performance GA4](https://lookerstudio.google.com/s/mx04zXZTko4)
   
 
 <h3 align="left">Languages and Tools:</h3>

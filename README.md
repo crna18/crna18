@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Eu sou Celso Araújo</h1>
-<h3 align="left">Profissional com mais de 20 anos de experiência na área de TI/Telecom e atualmente focado em dados, transformando em insights para tomada de decisão no negócio.</h3>
+<h3 align="left">Profissional com mais de 20 anos de experiência na área de TI/Telecom e atualmente focado em dados, transformando problemas de negócios em insights para tomada de decisão.</h3>
 
 - 🌱 Atualmente estou aprendendo **Python e Machine Learning**
 

@@ -5,7 +5,7 @@
 
 - 💬 Pergunte sobre **Google Looker Studio, SQL, Python, Power BI e Excel**
 
-- ![DanceGIF (2)](https://github.com/crna18/crna18/assets/118775264/9b21d66c-58c5-4da5-9873-2e4223726d67) Você pode contatar através do e-mail: **crnaraujo18@gmail.com**
+- 📧 Você pode contatar através do e-mail: **crnaraujo18@gmail.com**
 
 - 📄 Minha trajetória profissional pode ser vista aqui: [https://www.linkedin.com/in/crnaraujo](https://www.linkedin.com/in/crnaraujo)
 

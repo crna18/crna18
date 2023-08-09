@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Eu sou Celso Araújo</h1>
 <h3 align="left">Profissional com mais de 20 anos de experiência na área de TI/Telecom e atualmente focado em dados, transformando problemas de negócios em insights para tomada de decisão.</h3>
 
-- 🌱 Atualmente estou estudando **Python e Machine Learning**
+- 🌱 Atualmente estudo **Machine Learning + Python**
 
 - 💬 Pergunte sobre **SQL, Python, Google Looker Studio, Power BI e Excel**
 

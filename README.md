@@ -3,7 +3,7 @@
 
 - 🌱 Atualmente estudo **Machine Learning + Python**
 
-- 💬 Pergunte sobre **SQL, Python, Google Looker Studio, Power BI e Excel**
+- 💬 Pergunte sobre **Google Looker Studio, SQL, Python, Power BI e Excel**
 
 - 📧 Você pode contatar através do e-mail: **crnaraujo18@gmail.com**
 
